@@ -39,7 +39,7 @@ class MishTransform(bpy.types.Panel):
 	bl_label 		= "Transform"
 	bl_space_type 	= "VIEW_3D"
 	bl_region_type 	= "TOOLS"
-	
+
 	def draw(self, context):
 		Gcol = self.layout.column(align=True)
 		Rcol = Gcol.row(align=True)
