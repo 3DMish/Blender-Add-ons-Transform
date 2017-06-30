@@ -36,7 +36,7 @@ from mathutils import Vector
 
 class MishTransform(bpy.types.Panel):	
 	bl_category 	= "3DMish"
-	bl_label 		= "Transform"
+	bl_label 	= "3DM Transform"
 	bl_space_type 	= "VIEW_3D"
 	bl_region_type 	= "TOOLS"
 
