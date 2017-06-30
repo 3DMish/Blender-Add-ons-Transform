@@ -17,7 +17,7 @@
 # ##### END GPL LICENSE BLOCK #####
 
 bl_info = {
-    "name": "Transform",
+    "name": "3DM Transform",
     "category": "3DMish",
     "author": "3DMish (Mish7913@gmail.com)",
     "version": (0, 2, 6),
