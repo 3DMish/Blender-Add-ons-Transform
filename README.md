@@ -2,7 +2,7 @@
 You Can - Copy / Paste / Paste Mirror, Transform object, vertex, edge and faces.
 
 # Download
-<table><tr><td>v0.2.6</td><td><a href='https://github.com/3DMish/Blender-Add-ons-3DM-Transform/archive/master.zip'>3dm_transform.py</a></td></tr>
+<table><tr><td>v0.2.6</td><td><a href='https://github.com/3DMish/Blender-Add-ons-Transform/archive/master.zip'>3dm_transform.py</a></td></tr>
 </table>
 
 # Install
